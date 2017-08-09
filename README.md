@@ -1,2 +1,2 @@
-# code-sample-for-hilti
+# java-code-sample
 Code samples
